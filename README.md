@@ -1,5 +1,5 @@
 # Youtube_Clone
-Youtube clone using html css and javascript.
+Youtube clone using html and css.
 
 
 
